@@ -5,7 +5,7 @@ import subprocess
 app = Flask(__name__)
 
 # Path to your projects directory
-PROJECTS_DIR = r'C:\Users\coeng\OneDrive\Desktop\webapp\projects'
+PROJECTS_DIR = r'C:\Users\coeng\OneDrive\Desktop\co-final\projects'
 
 @app.route('/')
 def index():
